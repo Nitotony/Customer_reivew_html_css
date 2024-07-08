@@ -16,6 +16,7 @@ body{
 }
 
 .head{
+    padding: 20px;
     text-align: center;
     color: white;
     font-size: x-large;
