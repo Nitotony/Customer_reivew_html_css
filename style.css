@@ -47,6 +47,9 @@ body{
 
 .internal{
     margin: 0px 30px;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .content{
